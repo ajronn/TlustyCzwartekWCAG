@@ -2,7 +2,7 @@
 
 # Tworzenie dostępnych stron - WCAG w praktyce
 
-<div style="display: grid; grid-template-columns: auto 1fr; align-items: center"> 
+<div style="display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%"> 
     <img src="./imgs/pills.png" width="60" style="margin: 10px" />
     <span style="text-align: justify;">
     Dokument poświęcam zebraniu podstawowoych informacji na temat developmentu z świadomym implementowaniem standardu WCAG.
