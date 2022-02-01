@@ -19,6 +19,6 @@ Nagłówki służą do nawigacji po stronie dla wszystkich
 - [Gazeta Wyborcza](https://wyborcza.pl/0,0.html)
 
 ## NVDA Skróty klawiszowe
-- Headings: Go to the next heading H
-- Go to the next heading of level [1-6] 1 - 6
-- List all headings Insert + F7
+- Idź do następnego nagłówka H
+- Idź do następnego nagłówka w zależności od poziomu 1 - 6
+- Wylistuj wszystkie nagłówki Insert + F7
