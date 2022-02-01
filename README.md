@@ -5,7 +5,7 @@
 <table>
  <tr>
      <td><img src="./imgs/pills.png" width="60" style="margin: 10px" /></td>
-     <td style="text-align: justify;" >Dokument poświęcam zebraniu podstawowoych informacji na temat developmentu z świadomym implementowaniem standardu WCAG.</td>
+     <td style="text-align: justify;" >Dokument poświęcam zebraniu podstawowych informacji na temat developmentu z świadomym implementowaniem standardu WCAG.</td>
  </tr>
 </table>
 
@@ -32,7 +32,7 @@ Dostępność cyfrowa została stworzona dla wszystkich użytkowników komputer�
 
 ### Przydatne narzędzia
 
-<img src="./imgs/tools.png" > Podstawowowe:
+<img src="./imgs/tools.png" > Podstawowe:
 - NVDA
 - WAVE
 - HeadingsMap
@@ -57,7 +57,7 @@ Dostępność cyfrowa została stworzona dla wszystkich użytkowników komputer�
 Jest to zbiór atrybutów dodawanych do znaczników HTML.
 
 <ul style="list-style-type: none;" >
-    <li><img src="./imgs/masks.png" /> Role(s) - mówi czytnikowi, że element jest czymś innym niż wskasuje na to znacznik.</li>
+    <li><img src="./imgs/masks.png" /> Role(s) - mówi czytnikowi, że element jest czymś innym niż wskazuje na to znacznik.</li>
     <li><img src="./imgs/crate.png" /> Prop(s) - określa dodatkowe atrybuty spoza standardu HTML.</li>
     <li><img src="./imgs/rocket.png" /> State(s) - określa aktualny stan elementu.</li>
 </ul>
@@ -78,8 +78,8 @@ Jest to zbiór atrybutów dodawanych do znaczników HTML.
 
 - aria-atomic - który zmieniony tekst odczytać
 - aria-controls - który element jest sterowany
-- aria-describedby - opisany przez elment(y)
-- aria-haspopup - czy jest rozwiajny
+- aria-describedby - opisany przez element(y)
+- aria-haspopup - czy jest rozwijany
 - aria-label - etykieta tekstowa
 - aria-labelledby - etykieta z elementu
 - aria-live - obszar aktywny
