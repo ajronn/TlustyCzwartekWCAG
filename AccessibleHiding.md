@@ -38,7 +38,7 @@ Ukrycie to pozwoli na zniknięcie elementu z ekranu, a będące nadal dostępne 
 - przyciski
 
 
-## Ukrycie dla czytników ekranu
+## Ukrycie dla czytników ekranu - `aria-hidden="true"`
 
 Zastosowanie powyższego ukrycia pozwoli na ukrycie elementu dla czytników ekranu.
 
