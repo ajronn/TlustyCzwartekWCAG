@@ -44,7 +44,7 @@ Zastosowanie powyższego ukrycia pozwoli na ukrycie elementu dla czytników ekra
 
 ### Najczęstsze elementy potrzebującego tego zabiegu:
 - ikony,
-- tworzenie komponentów tj. `pokaż więcej`/`ukryj`, `checkbox'y`, `radiolista`,
+- tworzenie komponentów `checkbox'y`, `radiolista` ze zdjęciami/ikonkami,
 - obrazy.
 
 ### Implementacja
