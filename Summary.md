@@ -2,7 +2,7 @@
 
 1. Szybkość czytania czytników ekranu.
 2. Warto pomyśleć o implementacji WCAG przed developmentem już podczas tworzenia makiet.
-https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20190000848/T/D20190848L.pdf
+
 ## Miejsca gdzie czerpać dodatkową wiedzę
 - [W3](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
